@@ -1,5 +1,5 @@
 {
-    "name": "hasanjahromi/tamukin-php",
+    "name": "zain/tamukin",
     "description": "An open-source library of PHP components.",
     "require": {
         "php": "^8.2"
